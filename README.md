@@ -80,3 +80,5 @@ Don't forget to bump the migration number in the migration (like `migration := 4
 ## License
 
 MIT-licensed
+
+Originally made by @bitonic, @nh2, @chpatrick; contact them for any questions.
